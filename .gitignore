@@ -1,4 +1,9 @@
 **/__pycache__
 runs/
 .vscode/
+.venv/
+LISA-13B-llama2-v1
+LISA-7B-v1-explanatory
+flash_attn*.whl
+
 

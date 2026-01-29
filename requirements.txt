@@ -21,4 +21,10 @@ scipy
 bitsandbytes
 uvicorn
 wheel
+modelscope
+nvitop
+
+
+
+
 
